@@ -1,0 +1,32 @@
+{
+  "name": "eread",
+  "version": "1.0.0",
+  "description": "This is a Node.js backend for ebook web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sitamgithub-MSIT/eRead.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "API",
+    "RESTfulAPI"
+  ],
+  "author": "Sitam Meur <sitammeur@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sitamgithub-MSIT/eRead/issues"
+  },
+  "homepage": "https://github.com/sitamgithub-MSIT/eRead#readme",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
